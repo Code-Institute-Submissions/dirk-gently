@@ -25,4 +25,4 @@ User Centric Frontend Development mini-project and the main area is partly based
 ## Testing
 I checked the HTML and CSS code with the W3C validation services, checked all nav links to make sure 
 they go to the correct pages and checked the site on the full range of screen sizes to ensure that 
-it is fully responsive.
+it is fully responsive. I deployed it on Github.
