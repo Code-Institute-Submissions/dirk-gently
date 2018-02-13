@@ -127,6 +127,12 @@
     margin-bottom: 20px;
 }
 
+.profile-pic {
+    float: left;
+    width: 100px;
+    margin-right: 20px
+}
+
 .center-form{
     padding-top: 10px;
     margin: 0 auto;
