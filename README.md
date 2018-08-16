@@ -31,6 +31,19 @@ Contact details and social media links are in the footer of each page, and there
 The mood of the website is mysterious but reassuring. The shades of blue convey calmness, while
 brown conveys warmth and orange conveys energy. 
 
+## Features
+
+### Existing Features
+- Concise descriptions of what the agency does allows users to find out quickly if it's the agency they need.
+- Links in the header of each page allow users to navigate between the pages.
+- Social media links in the footer of each page allow users to visit the agency's profiles on Facebook, Google+, LinkedIn and Twitter.
+- The form on the Contact page allows users to send requests to the agency.
+
+### Features Left to Implement
+- JavaScript can be used to make the form send emails. However, this is out of the scope of this project.
+- The social media icons do not currently link to any social media profiles.
+
+
 ## Technology Used
 
 This is a front-end only website, using HTML5 and CSS3. In addition, I used the following:
@@ -50,7 +63,7 @@ This is a front-end only website, using HTML5 and CSS3. In addition, I used the 
 
 ## Deployment
 
-I deployed the website on Github.
+I deployed the website on Github. No issues to report.
 
 
 ## Credits
