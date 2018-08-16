@@ -26,7 +26,7 @@ Contact details and social media links are in the footer of each page, and there
 
 ### Design
 
-[Click here to see the wireframe of the website](https://drive.google.com/file/d/1dFBdKboGSMnJ1-ukDbQcDlBI7GNdjFE_/view?usp=sharing)
+[Click here to see the wireframe of the website](https://drive.google.com/file/d/1dFBdKboGSMnJ1-ukDbQcDlBI7GNdjFE_/view?usp=sharing).
 
 The mood of the website is mysterious but reassuring. The shades of blue convey calmness, while
 brown conveys warmth and orange conveys energy. 
