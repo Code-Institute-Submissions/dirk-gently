@@ -48,11 +48,9 @@ brown conveys warmth and orange conveys energy.
 
 This is a front-end only website, using HTML5 and CSS3. In addition, I used the following:
 
-- [Balsamiq](https://balsamiq.com/)
-    - **Balsamiq for Google Drive** was used to create wireframes.
+- **[Balsamiq for Google Drive](https://balsamiq.com/)** was used to create wireframes.
 
-- [Bootstrap](https://getbootstrap.com/)
-    - **Bootstrap** was used for icons and to make it easier to make the site responsive.
+- **[Bootstrap](https://getbootstrap.com/)** was used for icons and to simplify the layout and responsiveness.
 
 ## Testing
 - Checked the HTML with the [W3C Markup Validation Service](https://validator.w3.org/)
