@@ -61,8 +61,14 @@ This is a front-end only website, using HTML5 and CSS3. In addition, I used the 
 
 ## Deployment
 
-I deployed the website on Github. No issues to report.
+I deployed the project to GitHub as folows: 
 
+1. I navigated to the repository in GitHub.
+2. I clicked on Settings
+3. I scrolled down to GitHub Pages and selected the master branch as the source 
+4. I clicked Save. 
+
+The procedure worked without any errors, and there are no differences between the deployed version and the development version.
 
 ## Credits
 
