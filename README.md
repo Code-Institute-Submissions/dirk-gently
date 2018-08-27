@@ -76,10 +76,10 @@ The procedure worked without any errors, and there are no differences between th
 The quotes on the Home, Services and About pages are from *Dirk Gently's Holistic Detective Agency* by Douglas Adams.
 
 ### Media
-- The logo is from [Wikimedia Commons](https://commons.wikimedia.org/).
+- The logo was created with an image from [Wikimedia Commons](https://commons.wikimedia.org/).
 - The background image is from [Max Pixel](https://www.maxpixel.net/).
 - The profile photos on the About page are stock images from [Pexels](https://www.pexels.com/).
 
 ### Acknowledgements
-The design of the header, footer and contact form is partly based on the User Centric Frontend Development mini-project 
-and the design of the main area is partly based on  "Bootstrapping Your Next Big Idea".
+The design of the header, footer and contact form is based on the User Centric Frontend Development mini-project 
+and the design of the main area is based on  "Bootstrapping Your Next Big Idea".
