@@ -34,19 +34,19 @@ brown conveys warmth and orange conveys energy.
 ## Features
 
 ### Existing Features
-- Concise descriptions of what the agency does allows users to find out quickly if it's the agency they need.
+- Concise description of the agency's services allows users to find out quickly if it's the agency they need.
 - Links in the header of each page allow users to navigate between the pages.
 - Social media links in the footer of each page allow users to visit the agency's profiles on Facebook, Google+, LinkedIn and Twitter.
 - The form on the Contact page allows users to send requests to the agency.
 
 ### Features Left to Implement
 - JavaScript can be used to make the form send emails. However, this is out of the scope of this project.
-- The social media icons do not currently link to any social media profiles.
+- The social media icons do not currently link to any social media profiles. Creating fake profiles would violate the social media plaforms' terms of use.
 
 
 ## Technology Used
 
-This is a front-end only website, using HTML5 and CSS3. In addition, I used the following:
+This is a front-end only website, built with HTML5 and CSS3. In addition, I used the following:
 
 - **[Balsamiq for Google Drive](https://balsamiq.com/)** was used to create wireframes.
 
@@ -55,7 +55,7 @@ This is a front-end only website, using HTML5 and CSS3. In addition, I used the 
 ## Testing
 - Checked the HTML with the [W3C Markup Validation Service](https://validator.w3.org/)
 - Checked the CSS with the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
-- Clicked all nav links to ensure that they go to the correct pages
+- Clicked all navigation links to ensure that they go to the correct pages
 - Attempted to submit the form without filling in the fields to ensure that it prompts the user to fill in the form before submitting
 - Checked the site on the full range of screen sizes to ensure that it is fully responsive
 
