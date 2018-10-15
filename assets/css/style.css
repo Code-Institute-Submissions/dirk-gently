@@ -68,7 +68,7 @@
 .text-container {
     min-height: 80vh;
 /*Code for the background image is from https://css-tricks.com/perfect-full-page-background-image/*/
-    background: url("../images/bg.jpg") no-repeat center center fixed; 
+    background: url("../images/background.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
