@@ -21,14 +21,18 @@ The text is brief and to the point. At the top of each page, there are links to 
 The About page gives brief biographies of the agency's staff, outlining their experience.
 
 #### I want to contact the company easily.
-Contact details and social media links are in the footer of each page, and there is a simple contact form on the Contact page.
+Contact details and social media links are in the footer of each page, and there is a contact form on the Contact page.
 
 
 ### Design
 
-[Click here to see the wireframe of the website](https://drive.google.com/file/d/1dFBdKboGSMnJ1-ukDbQcDlBI7GNdjFE_/view?usp=sharing).
+To view the wireframe of the website, please [click here](https://drive.google.com/file/d/1dFBdKboGSMnJ1-ukDbQcDlBI7GNdjFE_/view?usp=sharing) and 
+then click "Open with Balsamiq Wireframes" at the top of the page. It may take a couple of seconds for "Open with Balsamiq Wireframes" to appear.
 
-The mood of the website is mysterious but reassuring. The shades of blue convey calmness, while
+The logo comprises two magnifying glasses that are mirror images of each other, linked to form a venn diagram. This symbolises the agency's belief 
+in the interconnectedness of all things
+
+The colour scheme, background image and fonts combine to create a mood that is mysterious but reassuring. The shades of blue convey calmness, 
 brown conveys warmth and orange conveys energy. 
 
 ## Features
@@ -41,7 +45,7 @@ brown conveys warmth and orange conveys energy.
 
 ### Features Left to Implement
 - JavaScript can be used to make the form send emails. However, this is out of the scope of this project.
-- The social media icons do not currently link to any social media profiles. Creating fake profiles would violate the social media plaforms' terms of use.
+- The social media icons do not currently link to any social media profiles. Creating fake profiles to remedy this would violate the social media plaforms' terms of use.
 
 
 ## Technology Used
@@ -56,8 +60,9 @@ This is a front-end only website, built with HTML5 and CSS3. In addition, I used
 - Checked the HTML with the [W3C Markup Validation Service](https://validator.w3.org/)
 - Checked the CSS with the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 - Clicked all navigation links to ensure that they go to the correct pages
-- Attempted to submit the form without filling in the fields to ensure that it prompts the user to fill in the form before submitting
+- Attempted to submit the form with blank fields to ensure that it prompts the user to fill in the form before submitting
 - Checked the site on the full range of screen sizes to ensure that it is fully responsive
+- Viewed and tested the website in Chrome, Edge, Firefox and Opera to ensure compatiblity with a range of popular browsers
 
 ## Deployment
 
