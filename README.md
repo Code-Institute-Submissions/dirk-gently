@@ -29,9 +29,9 @@ is a contact form on the Contact page.
 
 ### Design
 
-To view the wireframe of the website, please [click here](https://drive.google.com/file/d/1dFBdKboGSMnJ1-ukDbQcDlBI7GNdjFE_/view?usp=sharing) and 
-then click "Open with Balsamiq Wireframes" at the top of the page. It may take 
-a few seconds for "Open with Balsamiq Wireframes" to appear.
+To view the wireframe of the website, please [click here](https://drive.google.com/file/d/1dFBdKboGSMnJ1-ukDbQcDlBI7GNdjFE_/view?usp=sharing) 
+and then click "Open with Balsamiq Wireframes" at the top of the page. 
+It may take a few seconds for "Open with Balsamiq Wireframes" to appear.
 
 The logo comprises two magnifying glasses that are mirror images of each other, 
 linked to form a venn diagram. This symbolises the agency's belief in the 
@@ -78,7 +78,7 @@ I tested the site using the following procedures:
 5. If any errors are found, fix them in the HTML file
 6. Repeat for all HTML files
 - **CSS:** 
-1. Select and copy all the content of the CSS file    
+1. Select and copy all the content of the CSS file
 2. Go to the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 3. Click on the "By direct input" tab
 4. Paste the CSS into the box and click "Check"
@@ -89,7 +89,7 @@ in the navbars of all four pages to ensure that they go to the correct pages
 it prompts the user to fill in all fields before submitting
 - **Responsivenes:** Check the site on the full range of screen sizes to ensure 
 that it is fully responsive
-- **Cross-browser Compatibility:** View and tested the website in Chrome, Edge, 
+- **Cross-browser Compatibility:** View and test the website in Chrome, Edge, 
 Firefox and Opera to ensure compatiblity with a range of popular browsers
 
 ## Deployment
@@ -113,9 +113,8 @@ by Douglas Adams (William Heinemann Ltd., 1987).
 
 ### Media
 - The logo was created with an image from [Wikimedia Commons](https://commons.wikimedia.org/).
-- The background image is from [Max Pixel](https://www.maxpixel.net/).
-- The profile photos on the About page are stock images from [Pexels](https://www.pexels.com/).
+- All the other images are free Creative Commons images, downloaded from [Pixabay](https://pixabay.com/).
 
 ### Acknowledgements
-The design of the header, footer and contact form is based on the User Centric Frontend Development mini-project 
-and the design of the main area is based on  "Bootstrapping Your Next Big Idea".
+The design of the header, footer and contact form is based on the User Centric Frontend Development 
+mini-project and the design of the main area is based on "Bootstrapping Your Next Big Idea".
