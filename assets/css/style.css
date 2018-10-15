@@ -94,7 +94,7 @@
     margin-bottom: 20px;
 }
 
-.page-title{
+h2{
     font-family: "Cinzel Decorative", cursive;
     font-weight: 700;
     font-size: 30px;
@@ -102,7 +102,7 @@
     margin-bottom: 30px;
 }
 
-.title{
+h3{
     font-family: "Cinzel Decorative", cursive;
     font-weight: 700;
     font-size: 20px;
