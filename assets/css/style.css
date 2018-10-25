@@ -82,7 +82,7 @@
 .text-box{
     background-color: #D4E4F7;
     color: #341C09;
-    padding: 20px;
+    padding: 30px;
     border-radius: 10px;
 }
 
@@ -107,7 +107,7 @@ h3{
     font-size: 20px;
     font-weight: 400;
     color: #341C09;
-    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .body-text{
@@ -115,7 +115,6 @@ h3{
     font-weight: 400;
     font-size: 18px;
     color: #341C09;
-    margin-bottom: 30px;
 }
 
 .quote{
