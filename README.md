@@ -54,8 +54,8 @@ profiles on Facebook, Google+, LinkedIn and Twitter.
 ### Features Left to Implement
 - JavaScript can be used to make the form send emails. However, this is outside 
 the scope of this project.
-- The social media icons do not link to social media profiles. Creating fake 
-profiles to remedy this would violate the social media plaforms' terms of use.
+- Whereas the icons for Facebook, Google+ and Twitter link to fan pages on those 
+sites, the LinkedIn icon does not link to anything.
 
 
 ## Technologies Used
