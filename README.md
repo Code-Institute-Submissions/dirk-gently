@@ -120,3 +120,5 @@ by Douglas Adams (William Heinemann Ltd., 1987).
 ### Acknowledgements
 The design of the header, footer and contact form is based on the User Centric Frontend Development 
 mini-project and the design of the main area is based on "Bootstrapping Your Next Big Idea".
+
+My mentor, Michael Newton, provided valuable feedback and advice on the project.
