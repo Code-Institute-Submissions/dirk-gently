@@ -55,7 +55,8 @@ profiles on Facebook, Google+, LinkedIn and Twitter.
 - JavaScript can be used to make the form send emails. However, this is outside 
 the scope of this project.
 - Whereas the icons for Facebook, Google+ and Twitter link to fan pages on those 
-sites, the LinkedIn icon does not link to anything.
+sites, the LinkedIn icon does not link to anything, as I found nothing suitable 
+on LinkedIn.
 
 
 ## Technologies Used
