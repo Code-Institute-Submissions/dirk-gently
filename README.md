@@ -56,7 +56,8 @@ profiles on Facebook, Google+, LinkedIn and Twitter.
 the scope of this project.
 - Whereas the icons for Facebook, Google+ and Twitter link to fan pages on those 
 sites, the LinkedIn icon does not link to anything, as I found nothing suitable 
-on LinkedIn.
+on LinkedIn. There were a couple of users with Dirk Gently as pseudonyms, but I 
+wasn't comfortable linking to their profiles.
 
 
 ## Technologies Used
